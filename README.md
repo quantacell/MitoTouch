@@ -76,7 +76,7 @@ CAUTION, this also includes the entire descending file tree of the selected fold
 
 Contact:
 -----------------------
-abdel.aouacheria@umontpellier.fr & victor.racine@quantacell.com 
+abdel.aouacheria (at) umontpellier.fr & victor.racine (at) quantacell.com 
 
 Parallel :
 Distributes the operation over the different cores of the computer to increase processing speed
