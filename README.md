@@ -74,6 +74,10 @@ Run :
 Allows you to perform processing under the selected folder. All files ending in "MERGE.tif" that are included in a folder named "Champ - Copie (X) " will be selected for processing
 CAUTION, this also includes the entire descending file tree of the selected folder.
 
+Contact:
+-----------------------
+abdel.aouacheria@umontpellier.fr & victor.racine@quantacell.com 
+
 Parallel :
 Distributes the operation over the different cores of the computer to increase processing speed
 CAUTION, due to the power required, a minimum of 16 GB of RAM is recommended. 
